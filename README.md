@@ -8,7 +8,7 @@ A collaborative 4-member project developed for **Review 3**, featuring Python sc
 
 | Member Name | Roll / Reg. No. | Role & Responsibilities |
 | :--- | :--- | :--- |
-| **Atul Kumar Prajapati** | `[Reg. No.]` | `[e.g., Core pipeline, model training & GitHub integration]` |
+| **Atul Kumar Prajapati** | RA2412707010028 | `[Core pipeline, model training & GitHub integration]` |
 | **Member 2 Name** | `[Reg. No.]` | `[e.g., Data preprocessing & feature engineering]` |
 | **Member 3 Name** | `[Reg. No.]` | `[e.g., Algorithm experimentation & evaluation (Unit 2 Notebook)]` |
 | **Member 4 Name** | `[Reg. No.]` | `[e.g., Documentation, testing & presentation / demo]` |
