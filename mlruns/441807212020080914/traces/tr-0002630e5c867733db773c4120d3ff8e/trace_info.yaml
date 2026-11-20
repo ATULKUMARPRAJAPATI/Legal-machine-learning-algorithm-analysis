@@ -1,0 +1,11 @@
+execution_duration_ms: 1604
+request_preview: Yes, I want to deploy to Kubernetes. What's the process?
+request_time: '2026-11-14T09:08:56.809Z'
+response_preview: You can build a Docker image with MLflow and deploy it to Kubernetes
+  using standard kubectl commands.
+state: OK
+trace_id: tr-0002630e5c867733db773c4120d3ff8e
+trace_location:
+  mlflow_experiment:
+    experiment_id: '441807212020080914'
+  type: MLFLOW_EXPERIMENT

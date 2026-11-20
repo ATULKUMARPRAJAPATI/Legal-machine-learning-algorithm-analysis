@@ -1,0 +1,14 @@
+execution_duration_ms: 1683
+request_preview: I'm new to MLflow. How do I get started with experiment tracking?
+request_time: '2026-11-16T22:10:57.188Z'
+response_preview: "Welcome to MLflow! Here's your quickstart:\n\n1. Install: `pip
+  install mlflow`\n2. Start the UI: `mlflow server --port 5000`\n3. In your code:\n```python\nimport
+  mlflow\nwith mlflow.start_run():\n    mlflow.log_param('learning_rate', 0.01)\n
+  \   mlflow.log_metric('accuracy', 0.95)\n```\nOpen http://localhost:5000 to see
+  your experiments!"
+state: OK
+trace_id: tr-d8f737aa154870055038ee2ba3c3ac6d
+trace_location:
+  mlflow_experiment:
+    experiment_id: '441807212020080914'
+  type: MLFLOW_EXPERIMENT

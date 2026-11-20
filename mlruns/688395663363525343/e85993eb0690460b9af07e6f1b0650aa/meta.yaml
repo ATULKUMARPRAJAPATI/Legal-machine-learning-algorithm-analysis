@@ -1,0 +1,14 @@
+artifact_uri: file:E:/Review 3/mlruns/688395663363525343/e85993eb0690460b9af07e6f1b0650aa/artifacts
+end_time: 1794796745749
+entry_point_name: ''
+experiment_id: '688395663363525343'
+lifecycle_stage: active
+run_id: e85993eb0690460b9af07e6f1b0650aa
+run_name: Unit3_KMeans
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794796723232
+status: 3
+tags: []
+user_id: atul1

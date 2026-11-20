@@ -1,0 +1,14 @@
+artifact_uri: file:E:/Review 3/mlruns/688395663363525343/dd3ba6dc9b254e7a962e453368f94cb3/artifacts
+end_time: 1794980858605
+entry_point_name: ''
+experiment_id: '688395663363525343'
+lifecycle_stage: active
+run_id: dd3ba6dc9b254e7a962e453368f94cb3
+run_name: Unit4_HMM
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794980858539
+status: 3
+tags: []
+user_id: atul1

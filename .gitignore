@@ -1,0 +1,9 @@
+(
+echo mlruns/
+echo modified_legal_dataset.csv
+echo *.csv
+echo __pycache__/
+echo *.py[cod]
+echo .ipynb_checkpoints/
+echo .env
+) > .gitignore

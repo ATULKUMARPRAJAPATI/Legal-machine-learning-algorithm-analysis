@@ -1,0 +1,10 @@
+artifact_location: file:E:/Review 3/mlruns/688395663363525343/models/m-4e04070d8d274a8185ce07699fd29ff0/artifacts
+creation_timestamp: 1794796871589
+experiment_id: '688395663363525343'
+last_updated_timestamp: 1794796880796
+model_id: m-4e04070d8d274a8185ce07699fd29ff0
+model_type: null
+name: gmm_model
+source_run_id: 9c27e0606f8f4ec6a6f3251b91a374ce
+status: 2
+status_message: null

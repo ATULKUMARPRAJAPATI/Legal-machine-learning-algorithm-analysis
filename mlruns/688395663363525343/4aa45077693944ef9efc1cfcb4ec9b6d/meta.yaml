@@ -1,0 +1,14 @@
+artifact_uri: file:E:/Review 3/mlruns/688395663363525343/4aa45077693944ef9efc1cfcb4ec9b6d/artifacts
+end_time: 1794980980252
+entry_point_name: ''
+experiment_id: '688395663363525343'
+lifecycle_stage: active
+run_id: 4aa45077693944ef9efc1cfcb4ec9b6d
+run_name: Unit4_Markov
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794980980200
+status: 3
+tags: []
+user_id: atul1

@@ -1,0 +1,14 @@
+artifact_uri: file:E:/Review 3/mlruns/688395663363525343/848ef3199a6f4ab2b93a5e7157104fc9/artifacts
+end_time: 1794980859731
+entry_point_name: ''
+experiment_id: '688395663363525343'
+lifecycle_stage: active
+run_id: 848ef3199a6f4ab2b93a5e7157104fc9
+run_name: Unit5_Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1794980858809
+status: 4
+tags: []
+user_id: atul1

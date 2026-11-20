@@ -1,0 +1,11 @@
+execution_duration_ms: 1550
+request_preview: What do you see in this image?
+request_time: '2026-11-16T17:20:57.186Z'
+response_preview: The image shows a solid red 8×8 pixel square, likely a synthetic
+  test image used for validating image processing pipelines.
+state: OK
+trace_id: tr-05fffd505d4e44cc09a8f8675125cc23
+trace_location:
+  mlflow_experiment:
+    experiment_id: '441807212020080914'
+  type: MLFLOW_EXPERIMENT

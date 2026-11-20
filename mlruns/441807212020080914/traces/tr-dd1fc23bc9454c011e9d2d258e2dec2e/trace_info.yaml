@@ -1,0 +1,11 @@
+execution_duration_ms: 1442
+request_preview: I was charged twice for my subscription this month. Can you help?
+request_time: '2026-11-12T03:47:56.610Z'
+response_preview: I see the duplicate charge. I'll process a refund which should appear
+  in 3-5 business days.
+state: OK
+trace_id: tr-dd1fc23bc9454c011e9d2d258e2dec2e
+trace_location:
+  mlflow_experiment:
+    experiment_id: '441807212020080914'
+  type: MLFLOW_EXPERIMENT

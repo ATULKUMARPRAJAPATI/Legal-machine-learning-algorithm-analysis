@@ -1,0 +1,10 @@
+artifact_location: file:E:/Review 3/mlruns/688395663363525343/models/m-ef4d49adc6a948828a3ebfc80e479a3e/artifacts
+creation_timestamp: 1794980844284
+experiment_id: '688395663363525343'
+last_updated_timestamp: 1794980852384
+model_id: m-ef4d49adc6a948828a3ebfc80e479a3e
+model_type: null
+name: kmeans_model
+source_run_id: ed2af77635334ecfa205f83e58842145
+status: 2
+status_message: null
